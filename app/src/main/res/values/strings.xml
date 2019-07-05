@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UsersBrowser</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="add"><u>Add to contacts</u></string>
+</resources>
